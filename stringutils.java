@@ -1,4 +1,4 @@
 hello i am updating in master branch...
-test
-hello this file contains the string related functions.
-.
+I am updating in dev branch...
+heallo this file contains the string related functions.. 
+
